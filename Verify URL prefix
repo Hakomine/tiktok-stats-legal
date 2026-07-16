@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head><meta charset="UTF-8"><title>Terms of Service</title></head>
+<body>
+<pre style="font-family: sans-serif; white-space: pre-wrap; max-width: 700px; margin: 40px auto;">
+[Nutzungsbedingungen – Meine TikTok Stats
+
 tiktok-developers-site-verification=bTlMWXZMlelbZyhV5kav65cTQjvVY6Bi
+
+Stand: Juli 2026
+
+1. Über diese Anwendung
+"Meine TikTok Stats" ist eine private, nicht-kommerzielle Desktop-Anwendung,
+die ausschließlich vom Entwickler selbst zur Anzeige seiner eigenen
+TikTok-Statistiken (Follower, Videoaufrufe, Likes, Kommentare, Shares)
+genutzt wird.
+
+2. Nutzungsumfang
+Die Anwendung ist nicht für die Öffentlichkeit oder Dritte bestimmt. Sie
+läuft ausschließlich lokal auf dem Rechner des Entwicklers (localhost) und
+wird nicht öffentlich vertrieben oder Dritten zugänglich gemacht.
+
+3. Zugriff über TikTok Login Kit
+Die Anwendung nutzt TikToks offizielles Login Kit (OAuth 2.0), um sich mit
+dem eigenen TikTok-Account des Nutzers zu verbinden. Es werden ausschließlich
+Daten des autorisierenden Accounts abgerufen.
+
+4. Haftungsausschluss
+Die Anwendung wird "wie besehen" bereitgestellt, ohne Gewähr auf
+Fehlerfreiheit oder ständige Verfügbarkeit. Da es sich um ein privates
+Werkzeug handelt, besteht kein Anspruch auf Support oder Weiterentwicklung.
+
+5. Beendigung des Zugriffs
+Der Nutzer kann die Autorisierung der Anwendung jederzeit über die
+TikTok-App (Einstellungen → Sicherheit → Verbundene Apps) widerrufen.
+
+6. Kontakt
+Bei Fragen zu dieser Anwendung wenden Sie sich an den Entwickler über die
+im Entwicklerportal hinterlegten Kontaktdaten.]
+</pre>
+</body>
+</html>
